@@ -28,4 +28,4 @@ O arquivo do projeto contendo a animação implementada e os códigos fonte pode
 ## 4. Conceitos de Orientação a Objetos
 Neste vídeo demonstramos a animação em execução e explicamos como os conceitos de Orientação a Objetos foram aplicados na prática utilizando a ferramenta Alice.
 
-🎥 **Assistir ao Vídeo:** LINK LINK LINK
+🎥 **Assistir ao Vídeo:** https://youtu.be/jNC1W6aX3B0?is=VHfs_aql0ZCeXC0I
