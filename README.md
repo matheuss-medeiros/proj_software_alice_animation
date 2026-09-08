@@ -12,8 +12,12 @@ O storyboard base para esta animação detalha a chegada de alienígenas a Terra
 ## 2. Planejamento da Implementação
 * **Cenário:** planeta Terra.
 * **Atores/Objetos:** Alien1, Alien2, piranha, humano e nave.
-* **Ações Principais:** a definir.
-* **Cronograma:** a definir.
+* **Ações Principais:** atores falam, andam em direção a um determinado objeto, andam de um local até um objeto e entram em veiculos.
+* **Cronograma:**
+Passo 1: Alien1 e Alien2 chegam no cenário (Terra).
+Passo 2: Humano se assusta com Alien e foge.
+Passo 3: A piranha aparece e come o Alien2.
+Passo 4: O Alien1 foge para a nave.
 
 ## 3. Arquivo do Projeto do Alice
 O arquivo do projeto contendo a animação implementada e os códigos fonte pode ser encontrado no link abaixo:
