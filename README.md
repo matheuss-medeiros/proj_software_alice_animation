@@ -1,7 +1,7 @@
 # Wiki do Projeto Alice: Invasão Alienígena
 **Curso:** Ciência da Computação  
 **Autores do Storyboard:** Cidam Marinho Falaschi (10936005) e Raphael Oliveira Silva (10932698)  
-**Implementadores:** Matheus Medeiros (10748040) e Daniel Arais (10419718) 
+**Implementadores:** Matheus Medeiros (10748040), Daniel Arais (10419718) e Caroline Lee (10264791)
 
 ## 1. Storyboard
 O storyboard base para esta animação detalha a chegada de alienígenas a Terra e a interação deles com o planeta pre-histórico.
